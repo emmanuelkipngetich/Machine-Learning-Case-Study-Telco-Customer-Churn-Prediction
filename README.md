@@ -1,1 +1,1 @@
-# Machine-Learning-Case-Study-Telco-Customer-Churn-Prediction
+# TEAM_ATHENS_LP2_CUSTOMER_CHURN
